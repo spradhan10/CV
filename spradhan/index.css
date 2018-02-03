@@ -1,0 +1,52 @@
+html{
+    background:linear-gradient(#122122,#4ab3cc);
+    -webkit-background:linear-gradient(#122122,#4ab3cc);
+    -o-background:linear-gradient(#122122,#4ab3cc);
+    -mos-background:linear-gradient(#122122,#4ab3cc);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    
+}   
+header{
+    border:5px solid black;
+    color: antiquewhite;
+    text-align-last: center;
+    margin: 10px;
+    font-family: fantasy;
+    font-size: 2.5em;
+}
+#container{
+    position: relative
+        margin: 100px auto;
+}
+
+#pic{
+/*    position: relative;*/
+/*
+    margin: 100px auto;
+    padding: 20px; 
+    height: 0.2em;
+    width: 0.2em;
+    top:10px;
+    align-content: center;
+*/
+     border-radius: 100px;
+}
+#pic img{
+    align-content: center;
+    border: 5px solid black;
+    height: 260px;
+/*    width: 250px;*/
+    border-radius: 500px;
+    shape-image-threshold: 100px;
+    position: relative;
+    
+    margin: 10px auto;
+}
+p{
+    text-align: center;
+ margin: 50pxpx;
+/* display: none;*/
+}

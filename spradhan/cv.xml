@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cv xml:lang="en-GB">
+
+
+<title> CV </title>
+
+<details>
+<name>Susan Pradhan</name>
+
+</details>
+<jobs>
+	
+	<job>
+	   <title> Manager</title>
+	    <date>2014-2015</date>
+	</job>
+    
+	<job>
+	    <title>Asistant manager</title>
+        <date>2013-2014</date>
+	</job>
+        
+	<job>
+	   <title> Sales Assistant</title>
+	   <date> 2007-2013</date>
+	
+	</job>
+
+</jobs> 
+
+<education>
+    
+	<school>
+	   <name>Kingston University </name>
+        
+        <year>2009-2013</year>
+	</school>
+    
+    <school>
+        <name>Canterbury college </name>
+        <year>2007-2009</year>
+    </school>
+    
+</education>
+</cv>
